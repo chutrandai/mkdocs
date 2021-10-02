@@ -1,6 +1,6 @@
 site_name: Hướng dẫn sử dụng hệ thống vESS
 
-nav:
+pages:
     - 'Trang chủ': 'saas/saas-introduction.md'
     - 'Đăng ký & cài đặt': 'saas/saas.md'
     - 'Nhân sự': 
