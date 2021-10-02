@@ -1,9 +1,9 @@
 site_name: Hướng dẫn sử dụng hệ thống vESS
 
-pages:
+nav:
     - 'Trang chủ': 'saas/saas-introduction.md'
     - 'Đăng ký & cài đặt': 'saas/saas.md'
-    - 'Nhân sự': 
+    - 'Nhân sự':
         - 'Giới thiệu về phân hệ Quản lý nhân sự': 'hrm/introduction.md'
         - 'Thiết lập và khai báo ban đầu': 'hrm/initialization.md'
         - 'Các thuật ngữ và từ viết tắt': 'hrm/abbreviations.md'
@@ -39,6 +39,7 @@ pages:
     - 'Release Notes': 'release-notes.md'
 theme:
     name: readthedocs
-    navigation_depth: 100
+    features:
+        - navigation.expand
 extra_css:
     - css/extra.css
