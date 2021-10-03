@@ -7,11 +7,11 @@ pages:
         - 'Giới thiệu về phân hệ Quản lý nhân sự': 'hrm/introduction.md'
         - 'Thiết lập và khai báo ban đầu': 'hrm/initialization.md'
         - 'Các thuật ngữ và từ viết tắt': 'hrm/abbreviations.md'
-        - 'Khai báo danh mục': 'hrm/master-datas.md'
-            # - 'Khai báo danh mục': 'hrm/master-datas.md'
-            # - 'Tuyển dụng': 'hrm/recruitment.md'
-            # - 'Nhân viên': 'hrm/employee.md'
-            # - 'Chấm công': 'hrm/attendance.md'
+        - 'Hướng dẫn sử dụng chức năng':
+            - 'Khai báo danh mục': 'hrm/master-datas.md'
+            - 'Tuyển dụng': 'hrm/recruitment.md'
+            - 'Nhân viên': 'hrm/employee.md'
+            - 'Chấm công': 'hrm/attendance.md'
             # - 'Hợp đồng':
             # - 'Yêu cầu chấm công':
             # - 'Chấm công':
