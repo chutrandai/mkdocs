@@ -39,6 +39,6 @@ pages:
     - 'Release Notes': 'release-notes.md'
 theme:
     name: readthedocs
-    navigation_depth: 100
+    highlightjs: true
 extra_css:
     - css/extra.css
