@@ -1,6 +1,6 @@
 site_name: Hướng dẫn sử dụng hệ thống vESS
 
-pages:
+nav:
 - 'Trang chủ': 'saas/saas-introduction.md'
 - 'Đăng ký & cài đặt': 'saas/saas.md'
 - 'Nhân sự':
@@ -39,6 +39,7 @@ pages:
 - 'Release Notes': 'release-notes.md'
 theme:
     name: readthedocs
+    navigation_depth: 100
     highlightjs: true
 extra_css:
     - css/extra.css
